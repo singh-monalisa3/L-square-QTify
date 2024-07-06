@@ -2,7 +2,7 @@ import React from "react";
 import { Tooltip } from "@mui/material";
 import styles from "./card.module.css";
 import { useNavigate } from "react-router-dom";
-
+// push
 const Card = ({ data, type }) => {
   let navigate = useNavigate();
   const getCard = () => {
