@@ -12,6 +12,8 @@ const Navbar = ({ data, page, songsData }) => {
     setIsFeedbackClicked(!isFeedbackClicked);
   };
 
+  // Navbar component
+
   useEffect(() => {
     let feedback = document.getElementById("feedback");
     let body = document.body;
