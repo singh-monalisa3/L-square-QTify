@@ -2,13 +2,10 @@
 
 QTify is a web application that serves as a clone of Spotify, providing users with a platform to discover, listen to, and organize their favorite music.
 
-Project Link Netlfiy
-```bash
-   https://qtify-venkykumar.netlify.app/
-   ```
+
 Project Link Vercel
 ```bash
-   https://l-square-q-tify-venky-kumar.vercel.app/
+   https://l-square-q-tify-amber.vercel.app/
    ```
 
 ## Features
