@@ -3,7 +3,7 @@ import styles from "./AudioPlayer.module.css";
 import { FaPlay, FaPause } from "react-icons/fa";
 import Button from "../Button/Button";
 import { ImLoop, ImVolumeMedium, ImVolumeMute2 } from "react-icons/im";
-// import { HiVolumeUp } from "react-icons/hi";
+// import { HiVolumeUp } from "react-icons/hi"; check
 
 function AudioPlayer({ song, album = "Album Name" }) {
   const [playToggle, setPlayToggle] = useState(false);
