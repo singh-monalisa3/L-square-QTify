@@ -4,7 +4,7 @@ import Button from "../Button/Button";
 import { useEffect, useState } from "react";
 import Feedback from "../Feedback/Feedback";
 import styles from "./navbar.module.css";
-
+//Navbar init caps vs all lowecase
 const Navbar = ({ data, page, songsData }) => {
   const [isFeedbackClicked, setIsFeedbackClicked] = useState(false);
 
