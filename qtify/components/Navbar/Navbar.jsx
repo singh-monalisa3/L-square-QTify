@@ -12,7 +12,7 @@ const Navbar = ({ data, page, songsData }) => {
     setIsFeedbackClicked(!isFeedbackClicked);
   };
 
-  // Navbar component
+  // Navbar component updated please check
 
   useEffect(() => {
     let feedback = document.getElementById("feedback");
